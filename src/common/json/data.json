@@ -19,7 +19,7 @@
       },
       {
         "type": 1,
-        "description": ""
+        "description": "折扣"
       },
       {
         "type": 2,
@@ -43,8 +43,8 @@
     ],
     "infos": [
       "该商家支持发票,请下单写好发票抬头",
-      "品类:其他菜系,包子粥店",
-      "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+      "品类:",
+      "xxxxxxxxxxxxxxxxxx",
       "营业时间:10:00-20:30"
     ]
   },
@@ -134,14 +134,14 @@
               "username": "3******c",
               "rateTime": 1469281964000,
               "rateType": 1,
-              "text": "没啥味道",
+              "text": "很不错",
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1469271264000,
               "rateType": 1,
-              "text": "很一般啊",
+              "text": "很不错",
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             },
             {
@@ -687,14 +687,10 @@
       "deliveryTime": 30,
       "score": 5,
       "rateType": 0,
-      "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "text": "不错,强烈推荐.",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": [
-        "南瓜粥",
-        "皮蛋瘦肉粥",
-        "扁豆焖面",
-        "娃娃菜炖豆腐",
-        "牛肉馅饼"
+        "完美"
       ]
     },
     {
@@ -707,7 +703,7 @@
       "text": "服务态度不错",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": [
-        "扁豆焖面"
+        "蒙"
       ]
     },
     {
@@ -755,7 +751,7 @@
       "deliveryTime": 30,
       "score": 5,
       "rateType": 0,
-      "text": "很喜欢的粥店",
+      "text": "很喜欢",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
@@ -765,7 +761,7 @@
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "量给的还可以",
+      "text": "完美",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
@@ -785,10 +781,10 @@
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "孩子喜欢吃这家",
+      "text": "完美",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": [
-        "南瓜粥"
+        "佑"
       ]
     },
     {
@@ -797,7 +793,7 @@
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "粥挺好吃的",
+      "text": "完美",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
@@ -857,7 +853,7 @@
       "deliveryTime": "",
       "score": 5,
       "rateType": 0,
-      "text": "吃了还想再吃",
+      "text": "完美",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
@@ -877,7 +873,7 @@
       "deliveryTime": 30,
       "score": 5,
       "rateType": 0,
-      "text": "好吃",
+      "text": "完美",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
@@ -907,7 +903,7 @@
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "很喜欢的粥",
+      "text": "很喜欢",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
