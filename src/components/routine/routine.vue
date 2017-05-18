@@ -59,6 +59,9 @@
     padding: 8px;
     background-color: #fff;
   }
+  .routine_header img{
+    width:70px;
+  }
   .routine_header_box{
     position: relative;
     float: left;

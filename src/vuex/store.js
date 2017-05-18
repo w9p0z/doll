@@ -156,12 +156,12 @@ const state = {
     routineList:[
       {
         "name":"今日头条",
-        "img":"/static/img/1.jpg",
+        "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1840733171,2874732100&fm=23&gp=0.jpg",
         "url":"/"
       },
       {
         "name":"玩偶工厂",
-        "img":"/static/img/1.jpg",
+        "img":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1840733171,2874732100&fm=23&gp=0.jpg",
         "url":"/goods"
       }
     ]
